@@ -1,6 +1,6 @@
 module github.com/int128/kubelogin
 
-go 1.16
+go 1.19
 
 require (
 	github.com/alexflint/go-filemutex v1.2.0
